@@ -7,7 +7,7 @@
     "anio": 2022,
     "sello": "Island Records",
     "pistas": 12,
-    "imagen": "mans-best-friend.avif",
+    "imagen": "album1.jpg",
     "resumen": "Debut de Sabrina Carpenter lleno de energía pop.",
     "descripcion": "Álbum que consolida el sonido pop maduro de Sabrina con letras introspectivas y producción contemporánea."
   },
@@ -19,7 +19,7 @@
     "anio": 2024,
     "sello": "Island Records",
     "pistas": 12,
-    "imagen": "short-n-sweet.avif",
+    "imagen": "album2.jpg",
     "resumen": "El álbum que catapultó a Sabrina Carpenter al estrellato mundial.",
     "descripcion": "Sexto álbum de Sabrina, con sencillos virales como 'Espresso' y 'Please Please Please'. Pop retro con producción moderna."
   },
@@ -31,7 +31,7 @@
     "anio": 2021,
     "sello": "RIMAS Entertainment",
     "pistas": 10,
-    "imagen": "lo-mismo-de-siempre.avif",
+    "imagen": "album3.jpg",
     "resumen": "El debut de Mora que definió su estilo en el urbano latino.",
     "descripcion": "Álbum debut de Mora que mezcla trap, reggaeton y rap con letras emotivas. Lo establece como voz indispensable del urbano latino."
   },
@@ -43,7 +43,7 @@
     "anio": 2023,
     "sello": "RIMAS Entertainment",
     "pistas": 14,
-    "imagen": "estrella.avif",
+    "imagen": "album4.jpg",
     "resumen": "Mora brilla con madurez en su segundo álbum de estudio.",
     "descripcion": "Segundo álbum de Mora donde consolida su identidad con producción de alto nivel y letras sobre amor, éxito y autenticidad."
   },
@@ -55,7 +55,7 @@
     "anio": 2023,
     "sello": "Independiente",
     "pistas": 8,
-    "imagen": "curita-para-el-corazon.avif",
+    "imagen": "album5.jpg",
     "resumen": "EP debut de Zhamira con canciones que sanan el corazón.",
     "descripcion": "Debut de Zhamira que mezcla pop latino con R&B. Letras honestas sobre amor y sanación emocional."
   },
@@ -67,7 +67,7 @@
     "anio": 2021,
     "sello": "Empire",
     "pistas": 13,
-    "imagen": "girasoles.avif",
+    "imagen": "album6.jpg",
     "resumen": "El proyecto más personal y romántico de Jay Wheeler.",
     "descripcion": "Álbum que mezcla pop romántico con R&B urbano. Jay Wheeler explora el amor con vulnerabilidad y producción refinada."
   },
@@ -79,7 +79,7 @@
     "anio": 2023,
     "sello": "Universal Music Latin",
     "pistas": 18,
-    "imagen": "manana-sera-bonito.avif",
+    "imagen": "album7.jpg",
     "resumen": "El álbum que convirtió a Karol G en la artista latina más grande del mundo.",
     "descripcion": "Quinto álbum de Karol G. Primero en español de una artista femenina en debutar #1 en Billboard 200. Reggaeton y pop en 18 canciones."
   }
